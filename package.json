@@ -1,0 +1,23 @@
+{
+  "name": "lut-frontend",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirNicholas1st/LUT_FrontEnd.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirNicholas1st/LUT_FrontEnd/issues"
+  },
+  "homepage": "https://github.com/SirNicholas1st/LUT_FrontEnd#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3",
+    "sass": "^1.55.0"
+  }
+}
